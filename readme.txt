@@ -1,6 +1,6 @@
 === simple html slider ===
-Contributors: rahulbrilliant2004
-Donate link: http://www.wpfruits.comq
+Contributors: rahulbrilliant2004, tikendramaitry
+Donate link: http://www.wpfruits.com
 Tags: slider, content, image, html
 Requires at least: 2.8
 Tested up to: 3.4
