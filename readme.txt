@@ -1,10 +1,10 @@
 === simple html slider ===
-Contributors: rahulbrilliant2004, tikendramaitry
+Contributors: tikendramaitry,rahulbrilliant2004
 Donate link: http://www.wpfruits.com
 Tags: slider, content, image, html
 Requires at least: 2.8
 Tested up to: 3.4
-Stable tag: 2.0
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,7 +39,8 @@ Use <?php if(function_exists('shs_slider_view')){ shs_slider_view(); } ?> in you
 An answer to that question.
 
 == Screenshots ==
-
+1. Admin Panel.
+2. Frontend.
 
 
 == Changelog ==
