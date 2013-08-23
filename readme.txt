@@ -1,10 +1,10 @@
 === simple html slider ===
-Contributors: tikendramaitry,rahulbrilliant2004
+Contributors: rahulbrilliant2004, tikendramaitry
 Donate link: http://www.wpfruits.com
 Tags: slider, content, image, html
 Requires at least: 2.8
 Tested up to: 3.4
-Stable tag: 1.0
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ Simple HTML Slider is a basic content html slider. It allows the user to create 
 
 == Description ==
 
-=Features  =
+= Features  =
     Put any html content with in the slides may be video, images or html itself
     Adjust the timings at your wish
     Adjust the flow of the slide i.e. from left to right or top to bottom and so on
@@ -39,8 +39,7 @@ Use <?php if(function_exists('shs_slider_view')){ shs_slider_view(); } ?> in you
 An answer to that question.
 
 == Screenshots ==
-1. Admin Panel.
-2. Frontend.
+
 
 
 == Changelog ==
