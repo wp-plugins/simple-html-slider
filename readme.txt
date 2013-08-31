@@ -8,18 +8,21 @@ Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Simple HTML Slider is a basic content html slider. It allows the user to create html slides to slide. The user can create any type of slide be it a youtube link or image or some html snippet. 
+SHTML slide plugin is a simple but very easy to use flexible and elegant slider plugin for WordPress.
 
 == Description ==
+SHTML Slider is a basic content html slider. SHTML Slider allows users to create html slides with in a second without any fuzz. User can create any type of slides using SHTML Slider be it a simple html snippet, an image, a youtube or vmieo vieos.
+
+**We are happy to announce that a newer, better and responsive version of SHTML is in the pipeline and is to be released very soon. You can see pre realease sneek peaks at: <a href="http://www.sketchthemes.com/sketch-themes-blog/sneak-peak-to-shtml-slider-pro-simple-is-new-awesome/">See Sneak Peaks Here.</a>**
 
 = Features  =
-    Put any html content with in the slides may be video, images or html itself
-    Adjust the timings at your wish
-    Adjust the flow of the slide i.e. from left to right or top to bottom and so on
-    Pause on hover or not.
-    Above all Free to use
-    Move the slides up and down as you wish.
-    Add as many slides you can.
+*Put any html content with in the slides may be video, images or html itself
+*Adjust the timings at your wish
+*Adjust the flow of the slide i.e. from left to right or top to bottom and so on
+*Pause on hover or not.
+*Above all Free to use
+*Move the slides up and down as you wish.
+*Add as many slides you can.
 
 == Installation ==
 
