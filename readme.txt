@@ -2,8 +2,8 @@
 Contributors: rahulbrilliant2004, tikendramaitry
 Donate link: http://www.wpfruits.com
 Tags: slider, content, image, html
-Requires at least: 2.8
-Tested up to: 3.4
+Requires at least: 3.1
+Tested up to: 3.6
 Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
