@@ -1,4 +1,4 @@
-=== simple html slider ===
+=== Simple HTML Slider ===
 Contributors: rahulbrilliant2004, tikendramaitry
 Donate link: http://www.wpfruits.com
 Tags: slider, content, image, html
