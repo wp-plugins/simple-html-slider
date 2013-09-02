@@ -13,7 +13,7 @@ SHTML slide plugin is a simple but very easy to use flexible and elegant slider 
 == Description ==
 SHTML Slider is a basic content html slider. SHTML Slider allows users to create html slides with in a second without any fuzz. User can create any type of slides using SHTML Slider be it a simple html snippet, an image, a youtube or vmieo vieos.
 
-**We are happy to announce that a newer, better and responsive version of SHTML PRO is in the pipeline and is to be released very soon. You can see pre realease sneak peaks at: <a href="http://www.sketchthemes.com/sketch-themes-blog/sneak-peak-to-shtml-slider-pro-simple-is-new-awesome/">See Sneak Peaks Here.</a>**
+**We are happy to announce that a newer, better and responsive version of SHTML PRO is in the pipeline and is to be released very soon. You can see pre realease sneak peeks at: <a href="http://www.sketchthemes.com/sketch-themes-blog/sneak-peek-to-shtml-slider-pro-simple-is-new-awesome/">See Sneak Peeks Here.</a>**
 
 = Features  =
 * Put any html content with in the slides may be video, images or html itself
