@@ -4,7 +4,7 @@ Plugin Name: Simple Html slider
 Plugin URI: http://www.wpfruits.com
 Description: This is simple Html content carousel. Put Your HTML CONTENT directly in the slides. Use more than two slides for better performance. This is continuous carousel.
 Author: WPFruits
-Version: 1.0
+Version: 1.0.0
 Author URI: http://www.wpfruits.com
 */
 function shs_slider_init_method() {
