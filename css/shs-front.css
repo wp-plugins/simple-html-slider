@@ -74,3 +74,5 @@
 	right:0;
 	background:url('../images/next.png') no-repeat center transparent;
 }
+
+#shs_slider_cont .shs-fixed-overlay iframe{ opacity:0;filter:alpha(opacity=00);}
