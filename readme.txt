@@ -70,6 +70,9 @@ Simple HTML Slider a.k.a. SHTML Slider is a basic HTML content slider. SHTML Sli
 4. Use the shortcode `[shs_slider_show]` in the content area of a page or post where you want the SHTML Slider to appear.
 5. Use the template code `<?php if(function_exists('shs_slider_view')){ shs_slider_view(); } ?>` in template file of your theme where you want the SHTML Slider to appear.
 
+User can go through the video instructions for installation and configuration.
+http://www.youtube.com/watch?v=72ieEmUWkrA
+
 Thanks for using this plugin.
 
 For More Details please visit <a href="http://www.sketchthemes.com/plugins/shtml-slider-pro/" target="_blank">SHTML Slider Pro.</a>
