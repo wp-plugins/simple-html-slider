@@ -72,6 +72,7 @@ Simple HTML Slider a.k.a. SHTML Slider is a basic HTML content slider. SHTML Sli
 
 User can go through the video instructions for installation and configuration.
 http://www.youtube.com/watch?v=72ieEmUWkrA
+[vimeo https://vimeo.com/74187475]
 
 Thanks for using this plugin.
 
