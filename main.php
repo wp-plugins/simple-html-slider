@@ -4,7 +4,7 @@ Plugin Name: Simple HTML Slider
 Plugin URI: http://www.wpfruits.com
 Description: This is simple Html content carousel. Put Your HTML CONTENT directly in the slides. Use more than two slides for better performance. This is continuous carousel.
 Author: WPFruits
-Version: 1.1.0
+Version: 1.1.1
 Author URI: http://www.wpfruits.com
 */
 function shs_slider_init_method() {
@@ -68,13 +68,14 @@ function shs_get_version(){
 
 function shs_slider_show()
 {
-$shs_settings=get_option('shs_slider_settings');
+	$shs_settings=get_option('shs_slider_settings');
 	$pause_time=$shs_settings['pause_time'];
 	$trans_time=$shs_settings['trans_time'];
 	$width=$shs_settings['width'];
 	$height=$shs_settings['height'];
 	$direction=$shs_settings['direction'];
 	$show_navigation=$shs_settings['show_navigation'];
+	$shtmlFrom = "http://www.sketchthemes.com/plugins/shtml-slider-pro-wordpress-plugin?shtml_refs=".$_SERVER['SERVER_NAME'];
 	
 	$pause_hover=$shs_settings['pause_on_hover'];
 	
@@ -103,11 +104,9 @@ $shs_settings=get_option('shs_slider_settings');
 						$content=stripslashes($content);
 						$toret.="<div class='shs_items' $li_style >".$content."</div>";
 						} // if($content)
-					}// 	foreach($contents as $content)
+					}// foreach($contents as $content)
 				} // if($contents)
-	$toret.='</div>
-		</div>
-		';
+	$toret.='</div></div><div style="position:relative;"><a class="shtml_wpf_ref" title="SHTML Slider PRO"  href="'.$shtmlFrom.'" target="_blank" style="outline:none !important;background: none repeat scroll 0 0 #EEEEEE !important; border: 1px solid #AAAAAA !important; color: #444444 !important; display: block !important; font-family: Arial !important; font-size: 10px !important; font-weight: bold; height: 12px !important; line-height: 12px !important; text-align: center; text-decoration: none; text-indent: 0 !important; visibility: visible !important; width: 24px !important;position:absolute !important;left:0;top:0;" > '.__('SHS','shs').'</a></div>';
     $toret.="
 <script type='text/javascript'>
 jQuery(document).ready(function() {

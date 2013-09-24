@@ -94,26 +94,28 @@
 }
 
 .shs_banner_wrapper #wp_banner #mc_embed_signup .mc-field-group input[type='email']{
-	background: none repeat scroll 0 0 transparent;
-	border: 0 none;
-	color: #777777;
-	display: block;
-	float: left;
-	font-family: verdana;
-	font-size: 14px;
-	font-weight: bold;
-	margin-top: 6px;
-	padding: 8px 0;
-	text-indent: 2%;
-	width: 68%;
+    background: none repeat scroll 0 0 transparent;
+    border: 0 none;
+    border-radius: 0 0 0 0;
+    color: #777777;
+    display: block;
+    float: left;
+    font-family: verdana;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 6px;
+    padding: 8px 0;
+    text-indent: 2%;
+    width: 341px;
 }
 .shs_banner_wrapper #wp_banner #mc_embed_signup .mc-field-group input[type='submit']{
     background: none repeat scroll 0 0 transparent;
     border: 0 none;
+    border-radius: 0 0 0 0;
     clear: none;
     float: left;
-    margin: 6px 0 0 8px;
-    width: 27%;
+    margin: 6px 0 0 20px;
+    width: 140px;
 }
 
 .shs_banner_wrapper #wp_banner .bot_section{
