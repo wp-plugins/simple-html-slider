@@ -50,8 +50,9 @@
     top: -30px;
     width: 40px;
 	outline:none;
+	border:0;
+	text-decoration:none;
 }
-
 
 #shs_slider_cont a.shs_nav{
 	width:32px;
@@ -63,6 +64,8 @@
 	display:block;
 	padding:4px;
 	outline:none;
+	border:0;
+	text-decoration:none;
 }
 
 #shs_slider_cont #shs_prev{

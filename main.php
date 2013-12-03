@@ -4,7 +4,7 @@ Plugin Name: Simple HTML Slider
 Plugin URI: http://www.wpfruits.com
 Description: This is simple Html content carousel. Put Your HTML CONTENT directly in the slides. Use more than two slides for better performance. This is continuous carousel.
 Author: WPFruits
-Version: 1.1.1
+Version: 1.1.2
 Author URI: http://www.wpfruits.com
 */
 function shs_slider_init_method() {
@@ -511,11 +511,11 @@ function shs_slider_menu_op() {
 				</td>
 			</tr>
 			<tr>
-				<td><?php _e('Direction','shs'); ?></td>
+				<td><?php _e('Animation Type','shs'); ?></td>
 				<td>
 					<select name="direction">
-						<option value="Right" <?php shs_check_for_selected($direction,"Right"); ?> ><?php _e('Left - Right','shs'); ?></option>
-						<option value="Down" <?php shs_check_for_selected($direction,"Down"); ?> ><?php _e('Up - Down','shs'); ?></option>
+						<option value="Right" <?php shs_check_for_selected($direction,"Right"); ?> ><?php _e('Horizontal Slide','shs'); ?></option>
+						<option value="Down" <?php shs_check_for_selected($direction,"Down"); ?> ><?php _e('Vertical Slide','shs'); ?></option>
 					</select>
 				</td>
 			</tr>

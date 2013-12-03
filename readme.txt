@@ -3,8 +3,8 @@ Contributors: tikendramaitry, rahulbrilliant2004, Nishant Jain
 Donate link: http://www.wpfruits.com
 Tags: responsive slider, shortcode, slider plugin, carousel, responsive, simple, media, News, pictures, promotions, rotate, wordpress slider, banner, image slider, video slider, testimonial slider, map slider, html slider, content slider, text slider, gallery
 Requires at least: 2.8
-Tested up to: 3.6
-Stable tag: 1.1.1
+Tested up to: 3.7.1
+Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -89,6 +89,11 @@ For any more questions you can <a href="http://www.sketchthemes.com/helpdesk/ind
 2. Frontend view.
 
 == Changelog ==
+
+= Version 1.1.2 =
+* Fixed navigation and close button style issue.
+* Replaced "Direction" text with "Animation Type" and its options text with "Horizontal Slide" & "Vertical Slide".
+
 
 = Version 1.1.1 =
 * Fixed few style & jQuery issues.
