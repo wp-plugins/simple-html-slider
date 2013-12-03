@@ -37,7 +37,6 @@ Simple HTML Slider a.k.a. SHTML Slider is a basic HTML content slider. SHTML Sli
 = SHTML Slider Pro =
 * Standard SHTML Slider - <a href="http://plugins.wpfruits.com/simple-html-slider/">DEMO</a>
 * Featured Content SHTML Slider - <a href="http://plugins.wpfruits.com/simple-html-slider/adventure/">DEMO</a>
-* Carousel SHTML Slider - <a href="http://plugins.wpfruits.com/simple-html-slider/carousel/">DEMO</a>
 * Client Logo SHTML Slider - <a href="http://plugins.wpfruits.com/simple-html-slider/client-slider/">DEMO</a>
 * Multiple Map SHTML Slider - <a href="http://plugins.wpfruits.com/simple-html-slider/map-slider/">DEMO</a>
 * Projects SHTML Slider - <a href="http://plugins.wpfruits.com/simple-html-slider/shtml-projects/">DEMO</a>
