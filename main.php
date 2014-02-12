@@ -4,7 +4,7 @@ Plugin Name: Simple HTML Slider
 Plugin URI: http://www.wpfruits.com
 Description: This is simple Html content carousel. Put Your HTML CONTENT directly in the slides. Use more than two slides for better performance. This is continuous carousel.
 Author: WPFruits
-Version: 1.1.2
+Version: 1.1.3
 Author URI: http://www.wpfruits.com
 */
 function shs_slider_init_method() {
@@ -228,6 +228,9 @@ add_action('admin_menu', 'shs_slider_add_menu');
 function shs_slider_add_menu() {
 add_menu_page('Simple HTML Slider', 'SHTML Slider','administrator', 'shs_slider_options', 'shs_slider_menu_op',plugins_url('images/shs-icon.png',__FILE__));
 }
+
+// Enable Shortcode in textwidgets
+add_filter('widget_text', 'do_shortcode');
 
 function shs_slider_menu_op() {
 	echo '<div class="wrap">';

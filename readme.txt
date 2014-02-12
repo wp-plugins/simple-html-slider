@@ -3,8 +3,8 @@ Contributors: tikendramaitry, rahulbrilliant2004, Nishant Jain
 Donate link: http://www.wpfruits.com
 Tags: responsive slider, shortcode, slider plugin, carousel, responsive, simple, media, News, pictures, promotions, rotate, wordpress slider, banner, image slider, video slider, testimonial slider, map slider, html slider, content slider, text slider, gallery
 Requires at least: 2.8
-Tested up to: 3.7.1
-Stable tag: 1.1.2
+Tested up to: 3.8.1
+Stable tag: 1.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,6 +37,7 @@ Simple HTML Slider a.k.a. SHTML Slider is a basic HTML content slider. SHTML Sli
 = SHTML Slider Pro =
 * Standard SHTML Slider - <a href="http://plugins.wpfruits.com/simple-html-slider/">DEMO</a>
 * Featured Content SHTML Slider - <a href="http://plugins.wpfruits.com/simple-html-slider/adventure/">DEMO</a>
+* Carousel SHTML Slider - <a href="http://plugins.wpfruits.com/simple-html-slider/carousel/">DEMO</a>
 * Client Logo SHTML Slider - <a href="http://plugins.wpfruits.com/simple-html-slider/client-slider/">DEMO</a>
 * Multiple Map SHTML Slider - <a href="http://plugins.wpfruits.com/simple-html-slider/map-slider/">DEMO</a>
 * Projects SHTML Slider - <a href="http://plugins.wpfruits.com/simple-html-slider/shtml-projects/">DEMO</a>
@@ -89,10 +90,14 @@ For any more questions you can <a href="http://www.sketchthemes.com/helpdesk/ind
 
 == Changelog ==
 
+= Version 1.1.3 =
+* Added shortcode enable filter for textwidget.
+* Compatible with WordPress latest version (3.8.1).
+
+
 = Version 1.1.2 =
 * Fixed navigation and close button style issue.
 * Replaced "Direction" text with "Animation Type" and its options text with "Horizontal Slide" & "Vertical Slide".
-
 
 = Version 1.1.1 =
 * Fixed few style & jQuery issues.
