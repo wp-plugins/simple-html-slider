@@ -4,7 +4,7 @@ Plugin Name: Simple HTML Slider
 Plugin URI: http://www.wpfruits.com
 Description: This is simple Html content carousel. Put Your HTML CONTENT directly in the slides. Use more than two slides for better performance. This is continuous carousel.
 Author: WPFruits
-Version: 1.1.3
+Version: 1.1.4
 Author URI: http://www.wpfruits.com
 */
 function shs_slider_init_method() {
@@ -93,7 +93,7 @@ function shs_slider_show()
 			if($show_navigation ==='Yes'){
 				$toret .='<a href="javascript:void(0)" id="shs_prev" class="shs_nav"></a><a href="javascript:void(0)" id="shs_next"  class="shs_nav"></a>';
 			}
-			$toret .='<div class="shs_slider_wrp" id="shs_slider_ul" style="width:'.$ul_width.';list-style-type:none;position:relative;margin:0;padding:0;" >';				
+			$toret .='<div class="shs_slider_wrp" id="shs_slider_ul" style="list-style-type:none;position:relative;margin:0;padding:0;" >';				
 				$contents=get_option('shs_slider_contents');
 				if($contents)
 				{
