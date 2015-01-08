@@ -1,5 +1,5 @@
 === Simple HTML Slider ===
-Contributors: tikendramaitry, rahulbrilliant2004, Nishant Jain
+Contributors: tikendramaitry, rahulbrilliant2004
 Donate link: http://www.wpfruits.com
 Tags: responsive slider, shortcode, slider plugin, carousel, responsive, simple, media, News, pictures, promotions, rotate, wordpress slider, banner, image slider, video slider, testimonial slider, map slider, html slider, content slider, text slider, gallery
 Requires at least: 3.0
